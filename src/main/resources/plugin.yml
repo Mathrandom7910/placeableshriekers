@@ -1,0 +1,5 @@
+name: Placeableshriekers
+version: '${project.version}'
+main: me.mathrandom7910.placeableshriekers.Placeableshriekers
+api-version: 1.19
+description: Placed shriekers have the ability to spawn warden
